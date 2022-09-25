@@ -1,6 +1,6 @@
 # EvoAnalysisADGame
 
-A Google Colab notebook containing solutions for the Attacker-Defender Contest with two strategies (Dreu & Gross, 2019) using both classical and evolutionary game theory.
+A Google Colab notebook containing solutions for the Attacker-Defender Contest with two strategies (De Dreu & Gross, 2019) using both classical and evolutionary game theory.
 
 Reference:
 
